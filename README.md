@@ -30,7 +30,7 @@ npm run build - to get a production build
 Clone the project
 
 ```
-  git clone https://github.com/antonfrancisjeejo/quiz-app-react-with-redux-josh
+  git clone https://github.com/George-gs56/Quiz_App-using-React
 ```
 
 Go to the project directory
